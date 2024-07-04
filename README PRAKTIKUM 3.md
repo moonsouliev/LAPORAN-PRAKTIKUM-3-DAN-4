@@ -1,3 +1,5 @@
+# Viana Salsabila Fairuz Syahla
+# 202231027
 # Praktikum 3: Deteksi Tepi dan Garis
 
 Praktikum ini berfokus pada teori di balik deteksi tepi dan garis pada gambar menggunakan algoritma pemrosesan citra. Kami menggunakan berbagai teknik dari OpenCV untuk memproses gambar dan mendeteksi fitur penting.
