@@ -1,4 +1,7 @@
-### Praktikum 4: Analisis Tekstur Gambar Menggunakan GLCM
+# Viana Salsabila Fairuz Syahla
+# 202231027
+
+# Praktikum 4: Analisis Tekstur Gambar Menggunakan GLCM
 
 Gray Level Co-occurrence Matrix (GLCM) adalah salah satu metode untuk menganalisis tekstur gambar. Metode ini menghitung frekuensi pasangan pixel dengan intensitas tertentu yang muncul dalam gambar pada jarak dan sudut tertentu. GLCM kemudian dapat digunakan untuk menghitung berbagai fitur tekstur yang memberikan informasi tentang variasi dan pola dalam gambar.
 
